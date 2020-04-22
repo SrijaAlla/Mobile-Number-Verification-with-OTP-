@@ -6,10 +6,16 @@ This uses twilio service to call a number
 
 U need to have composer to do this and after installing composer
 
-run
+for ubuntu users run
 
 `````````
 composer require twilio/sdk
+``````````
+if the above command doesn't work for windows users run
+
+````````
+composer init --require-twilio/sdk
+`````````
 
 TWILIO IS NOT A FREE SERVICE
 
