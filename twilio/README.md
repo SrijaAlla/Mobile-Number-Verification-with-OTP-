@@ -1,6 +1,6 @@
 # Voice Mail with  TWILIO
 
-This uses twilio service to call a number
+This uses twilio service to call a number. The number you use is provided by twilio and should be verified by it.
 
 ## Some Information
 
