@@ -1,5 +1,5 @@
 # Mobile-Number-Verification-with-OTP
-This code is already available in the original website but needs some understanding and NOTE that one should have an account in TEXTLOCAL to use this service. Also, I couldn't find any free sms services.So, better create one or buy one if you need one.
+This code is already available in the original website but needs some understanding and NOTE that one should have an account in TEXTLOCAL to use this service. Also, I couldn't find any free sms services.So, better buy one if you need one.
 
 ## Information that you need to know to use this
 Controller.php asks for API KEY which is the key provided by textlocal.
